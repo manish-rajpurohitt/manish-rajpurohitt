@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manishpurohitt" target="blank"><img src="https://img.shields.io/twitter/follow/manishpurohitt?logo=twitter&style=for-the-badge" alt="manishpurohitt" /></a> </p>
 
-- 🔭 I’m currently working on [Zadinga](https://www.zadinga.in/)
+- 🔭 I’m currently working on [Monay](https://tilli.pro/monay/)
 
 - 📫 How to reach me **manishkumar9866@gmail.com**
 
