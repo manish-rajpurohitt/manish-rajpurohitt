@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-rajpurohitt&label=Profile%20views&color=0e75b6&style=flat" alt="manish-rajpurohitt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-rajpurohitt" alt="manish-rajpurohitt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="manish-rajpurohitt" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/manishpurohitt" target="blank"><img src="https://img.shields.io/twitter/follow/manishpurohitt?logo=twitter&style=for-the-badge" alt="manishpurohitt" /></a> </p>
 
